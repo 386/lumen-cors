@@ -1,10 +1,4 @@
 <?php
-/**
- * HomePage: https://github.com/yocome
- * Created by Yong.
- * Date: 2016/1/21
- * Time: 16:07
- */
 
 return [
     //HTTP响应头

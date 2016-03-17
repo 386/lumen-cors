@@ -6,6 +6,13 @@
  * Time: 16:07
  */
 
+/**
+ * HomePage: https://github.com/386
+ * Fixed by XiaoGai.
+ * Date: 2016/3/17
+ * Time: 17:00
+ */
+
 namespace Yocome\Cors;
 
 use Illuminate\Http\Request;

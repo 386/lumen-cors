@@ -1,7 +1,8 @@
 # Cors for Lumen
 
-解决Lumen 跨域问题
+解决Lumen 5.2 跨域问题
 
+修复 OPTIONS 问题
 ## Usage
 
 1. 安装

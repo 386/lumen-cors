@@ -1,13 +1,11 @@
 {
-  "name": "yocome/lumen-cors",
+  "name": "386/lumen-cors",
   "description": "cors for Lumen ",
   "keywords": ["lumen","cors"],
-  "homepage": "https://github.com/yocome/lumen-cors",
-  "minimum-stability": "dev",
+  "homepage": "https://github.com/386/lumen-cors",
   "license": "MIT",
   "require": {
     "php": ">=5.4"
-
   },
   "require-dev": {
     "illuminate/http": "5.2.*",
@@ -15,13 +13,13 @@
   },
   "authors": [
     {
-      "name": "Yong",
-      "email": "yocome@gmail.com"
+      "name": "XiaoGai",
+      "email": "68152283@qq.com"
     }
   ],
   "autoload": {
     "psr-4": {
-      "Yocome\\Cors\\": "src/"
+      "386\\Cors\\": "src/"
     }
   }
 }

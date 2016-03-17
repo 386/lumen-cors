@@ -1,5 +1,2 @@
-#PhpStorm
-.idea/
-
-/vendor
-composer.lock
+.idea
+vendor
