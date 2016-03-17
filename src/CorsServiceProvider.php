@@ -13,7 +13,7 @@
  * Time: 17:00
  */
 
-namespace Yocome\Cors;
+namespace 386\Cors;
 
 use Illuminate\Support\ServiceProvider;
 
@@ -27,7 +27,7 @@ class CorsServiceProvider extends ServiceProvider
 
         $config = $this->app['config']['cors'];
 
-        $this->app->bind('Yocome\Cors\CorsService', function() use ($config){
+        $this->app->bind('386\Cors\CorsService', function() use ($config){
             return new CorsService($config);
         });
 

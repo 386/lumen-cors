@@ -13,7 +13,7 @@
  * Time: 17:00
  */
 
-namespace Yocome\Cors;
+namespace 386\Cors;
 
 use Illuminate\Http\Request;
 use Illuminate\Http\Response;
