@@ -7,7 +7,7 @@
 
 1. 安装
 
-  `composer require yocome/lumen-cors`
+  `composer require 386/lumen-cors`
 
 2. 创建配置文件 `config/cors.php` 代码如下：
 
