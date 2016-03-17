@@ -75,12 +75,12 @@
 
     //注册中间件
      $app->middleware([
-         Yocome\Cors\CorsMiddleware::class,
+         386\Cors\CorsMiddleware::class,
          //...
      ]);
 
     //注册服务
-    $app->register(Yocome\Cors\CorsServiceProvider::class);
+    $app->register(386\Cors\CorsServiceProvider::class);
 
    ```
 
